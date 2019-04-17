@@ -12,7 +12,7 @@ The [ESP8266](https://en.wikipedia.org/wiki/ESP8266) sends a request to the back
 
 ## Configuration
 
-In `radar.ino` you have to configure following part:
+In [radar.ino](https://github.com/DominikHerold/HappinessRadar/blob/master/radar/radar.ino#L22-L32) you have to configure following part:
 
     const char* ssid = "foo";
     const char* password = "foo";
